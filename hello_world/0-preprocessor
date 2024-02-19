@@ -1,1 +1,2 @@
 #!/bin/bash
+0-preprocessor=CFILE | gcc -E $CFILE -o c
