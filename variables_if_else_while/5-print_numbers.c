@@ -9,6 +9,12 @@
 
 int main(void)
 {
-printf("0123456789\n");
-return (0);
+	int num;
+	
+	for (num = 48; num <= 57; num++)
+	{
+		putchar(num);
+	}
+	putchar('\n');
+	return (0);
 }
