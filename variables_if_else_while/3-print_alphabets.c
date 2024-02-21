@@ -9,18 +9,18 @@
 
 int main(void)
 {
-	char letter;
-	char upletter;
+char letter;
+char upletter;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-	{
-	putchar(letter);
+for (letter = 'a'; letter <= 'z'; letter++)
+{
+putchar(letter);
 }
-	for (upletter = 'A'; upletter <= 'Z'; upletter++)
-	{
-	putchar(upletter);
+for (upletter = 'A'; upletter <= 'Z'; upletter++)
+{
+putchar(upletter);
 }
-	putchar('\n');
+putchar('\n');
 
 return (0);
 }
