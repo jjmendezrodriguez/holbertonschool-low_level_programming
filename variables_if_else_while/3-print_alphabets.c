@@ -10,16 +10,13 @@
 int main(void)
 {
 char letter;
-char upletter;
 
 for (letter = 'a'; letter <= 'z'; letter++)
-{
+
 putchar(letter);
-}
-for (upletter = 'A'; upletter <= 'Z'; upletter++)
-{
-putchar(upletter);
-}
+
+for (letter = 'A'; letter <= 'Z'; letter++)
+
 putchar('\n');
 
 return (0);
