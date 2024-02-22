@@ -1,15 +1,14 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * alpha - check the code
  *
- * Return: 0
- *
+ * Return: 0*
  */
 
 int alpha(void)
 {
-	print_alphabet();
+	print_abc();
 
 	return (0);
 }
