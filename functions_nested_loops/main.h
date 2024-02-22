@@ -18,8 +18,9 @@ void print_alphabet(void);
 
 	for (letters = 'a'; letters <= 'z'; letters++);
 	{
-	putchar(leters);
+	_putchar(leters);
 	}
-	putchar('\n');
+	_putchar('\n');
+	
 	return (0);
 }
