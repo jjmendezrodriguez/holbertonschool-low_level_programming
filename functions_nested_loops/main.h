@@ -12,3 +12,14 @@ void print(void)
 	_putchar('\n');
 	
 }
+void print_alphabet(void);
+{
+	char letters;
+
+	for (letters = 'a'; letters <= 'z'; letters++);
+	{
+	putchar(leters);
+	}
+	putchar('\n');
+	return (0);
+}
