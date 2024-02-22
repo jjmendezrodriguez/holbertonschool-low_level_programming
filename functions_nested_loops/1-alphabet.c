@@ -3,12 +3,13 @@
 /**
  * alpha - check the code
  *
- * Return: 0*
+ * Return: 0
+ *
  */
 
 int alpha(void)
 {
-	print_abc();
-
+	print_alphabet();
+	
 	return (0);
 }
