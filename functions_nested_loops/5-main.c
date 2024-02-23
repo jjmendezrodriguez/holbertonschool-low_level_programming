@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	print_sign('n');
+	print_sign(1);
 
 	return (0);
 }
