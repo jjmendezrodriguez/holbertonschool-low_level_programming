@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * main - start the program
+ * print_alphabet - start the program
  *
  * Return: Always 0.
  */
+
 void print_alphabet(void)
 {
 	char i;
