@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _abs - stard the program
+ * _abs - start the program
  *
  *@j: value
  *
