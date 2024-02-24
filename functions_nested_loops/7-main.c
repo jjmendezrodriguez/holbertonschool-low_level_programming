@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	print_last_digit(2);
+	print_last_digit();
 	
 	return (0);
 }
