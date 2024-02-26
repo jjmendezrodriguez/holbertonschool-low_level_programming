@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * _isupper(int c) - start the program
+ * _isupper - start the program
  *
- * @c: value
+ *@c: valeu
  *
  * Return: Always 0.
  */
@@ -14,6 +14,6 @@ int _isupper(int c)
 	}
 	else
 	{
-		return (0);
+	return (0);
 	}
 }
