@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * reser_to_98 - function that takes a pointer
+ * reset_to_98 - function that takes a pointer
  *
- * @*n: pointer
- *
+ * @n: value of variable
+ * @*: asigment that is a pointer
  */
 void reset_to_98(int *n)
 {
