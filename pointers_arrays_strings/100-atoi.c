@@ -2,11 +2,10 @@
 #include <stdio.h>
 
 /**
- * print_array - prints n number of elements
- *               of an array of integers
- * @a: array of integers.
- * 
- * Return: 
+ * _atoi - conver a string to an integer
+ *@s: value of the array will convert
+ *
+ * Return: num * sign
  */
 int _atoi(char *s)
 {
