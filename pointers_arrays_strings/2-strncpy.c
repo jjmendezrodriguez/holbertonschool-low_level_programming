@@ -1,10 +1,11 @@
 #include "main.h"
 /**
- *
  * _strncpy - copy the strings and incres the value
  *
  * @dest: variable arguments
+ *
  * @src: variable arguments
+ *
  * @n: el numero maximo que copiaremos de src
  *
  * Return: al pointer
