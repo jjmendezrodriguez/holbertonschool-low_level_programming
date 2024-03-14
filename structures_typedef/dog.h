@@ -1,7 +1,7 @@
 #ifndef DOG_H
 #define DOG_H
 /**
- * struct dog - new command description  
+ * struct dog - new command description
  * @name: Name
  * @age: Age
  * @owner: Owner
