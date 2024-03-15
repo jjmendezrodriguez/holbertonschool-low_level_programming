@@ -8,7 +8,6 @@
  *
  * Return: return the length
  */
-
 int _strlen(char *s)
 {
 	int length = 0;
@@ -30,7 +29,6 @@ void _strcpy(char *dest, char *src)
 	while ((*dest++ = *src++) != '\0')
 		;
 }
-
 /**
  * new_dog - creates a new dog
  * @name: the name of the dog
