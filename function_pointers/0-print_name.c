@@ -3,11 +3,11 @@
 /**
  * print_name - funtion that print a name
  * @name: variable
- * @f: variable 
+ * @f: variable
  */
-void print_name(char *name void (*f)(char *))
+void print_name(char *name, void (*f)(char *))
 {
 	if (name == NULL || f == NULL)
-		retunr;
+		return;
 	f(name);
 }
