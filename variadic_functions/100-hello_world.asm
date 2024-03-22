@@ -1,3 +1,8 @@
+; File: 100-hello_world.asm
+; Auth: Jose Mendez
+; Desc: 64-bit assembly program that prints
+;       Hello, World followed by a new line.
+
 section .text
    global main
 
