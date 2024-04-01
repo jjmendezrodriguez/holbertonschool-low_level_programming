@@ -1,1 +1,3 @@
-aprendiendo_a_usar_C
+LEARND C
+
+how use C and they codes

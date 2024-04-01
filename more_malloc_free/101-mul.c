@@ -36,17 +36,17 @@ int find_len(char *str)
 char *create_xarray(int size)
 {
 	char *array;
-	int index;
+	int i;
 
 	array = malloc(sizeof(char) * size);
 
 	if (array == NULL)
 		exit(98);
 
-	for (index = 0; index < (size - 1); index++)
-		array[index] = 'x';
+	for (i = 0; i < (size - 1); i++)
+		array[i] = 'x';
 
-	array[index] = '\0';
+	array[i] = '\0';
 
 	return (array);
 }
@@ -77,7 +77,7 @@ char *iterate_zeroes(char *str)
 int get_digit(char c)
 {
 	int digit = c - '0';
-
+	
 	if (digit < 0 || digit > 9)
 	{
 		printf("Error\n");
