@@ -4,11 +4,6 @@ In this project, I learned about using doubly-linked lists in C
 
 Estaremos aprendiendo como usar `doubly-linked lists` en lenguaje C
 
-## General
-	* What is a `doubly linked list`?
-	* How to use `doubly linked lists`?
-	* Start to look for the right source of information without too much help.
-
 ## Data Structure:
 
 /**
@@ -26,6 +21,12 @@ typedef struct dlistint_s
     struct dlistint_s *prev;
     struct dlistint_s *next;
 } dlistint_t;
+
+## General:
+
+	-What is a doubly linked list
+	-How to use doubly linked lists
+	-Start to look for the right source of information without too much help
 
 ## Tasks:
 
