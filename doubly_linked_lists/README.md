@@ -1,13 +1,14 @@
-## C - Doubly linked lists
+# C - Doubly linked lists
 
 In this project, I learned about using doubly-linked lists in C
+Estaremos aprendiendo como usar `doubly-linked lists` en lenguaje C
 
-# General
+## General
 	* What is a `doubly linked list`?
 	* How to use `doubly linked lists`?
 	* Start to look for the right source of information without too much help.
 
-# Data Structure:
+## Data Structure:
 
 /**
  * struct dlistint_s - doubly linked list
